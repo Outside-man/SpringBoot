@@ -1,4 +1,4 @@
-package dangod.springboot.core.druid;
+package dangod.springboot.core.config.druid;
 
 
 import com.alibaba.druid.support.http.WebStatFilter;
